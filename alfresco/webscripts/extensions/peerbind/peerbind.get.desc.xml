@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Peerbind Demo</shortname>
+    <url>/extensions/peerbind/demo</url>
+    <description>This is a demo webscript extension to Alfresco Share, written by david.webster@alfresco.com to play with Peerbind's JS library.</description>
+    <lifecycle>sample</lifecycle>
+    <family>Sample</family>
+</webscript>

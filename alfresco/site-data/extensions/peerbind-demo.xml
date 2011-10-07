@@ -1,0 +1,19 @@
+<extension>
+   <modules>
+      <module>
+         <id>Peerbind Demo</id>
+         <components>
+            <component>
+               <region-id>node-header</region-id>
+               <source-id>document-details</source-id>
+               <scope>template</scope>
+               <sub-components>
+                  <sub-component id="peerbind" index="25">
+                     <url>/extensions/peerbind/demo</url>
+                  </sub-component>
+               </sub-components>
+            </component>
+         </components>
+      </module>
+   </modules>
+</extension>

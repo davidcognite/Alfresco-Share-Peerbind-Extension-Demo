@@ -1,0 +1,35 @@
+#peerbindMessages
+{
+   background-color: yellow;
+   height: 50px;
+}
+
+#peerbindChat
+{
+   bottom: 0;
+   position: fixed;
+   right: 0;
+   width: 200px;
+   border: 1px solid #cacaca;
+   padding: 2px;
+   background: #FFFFDD
+}
+
+#peerbindChat .chatWindow
+{
+   display:none;
+}
+
+#peerbindChat .chats
+{
+   overflow-y: auto;
+   height:150px;
+   margin-bottom:2em;
+}
+
+#peerbindChat input
+{
+   position: absolute;
+   height: 1.5em;
+   bottom:2px;
+}
